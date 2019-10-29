@@ -1,3 +1,8 @@
+# SCRYPTA CHAIN
+
+First version: https://scryptad.app/LavN3J7H9XWHBTb3FML8Y4NEME7qswQaDf
+
+
 # Kanban
 
 A simple kanban board to help you manage your daily tasks based on HTML5/JS with local storage.
